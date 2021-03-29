@@ -1,5 +1,5 @@
 
-# Course_Management_System
+# grade-management-system
 
 ## 需求描述
 
